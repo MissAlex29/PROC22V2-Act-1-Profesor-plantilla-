@@ -1,1 +1,2 @@
-# PROV2-Act-1-Profesor-plantilla-
+# PRO-C22
+estructura alámbrica para c22 
